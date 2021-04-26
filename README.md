@@ -1,6 +1,6 @@
 # Bioinformatics_Specialization
 Stepik code challenges solved
-The codes in this repository are not my authorship, they belong to the following GitHub developers and creators (not necessarily in a particular oder):
+The codes in this repository _are not my authorship_, they belong to the following GitHub developers and creators (not necessarily in a particular oder):
 luoguanghao: https://github.com/luoguanghao
 ruizhang84: https://github.com/ruizhang84
 zhaoc1: https://github.com/zhaoc1
