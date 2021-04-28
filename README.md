@@ -1,5 +1,5 @@
 # Bioinformatics_Specialization
-Stepik code challenges solved
+Stepik code challenges solved.
 The codes in this repository _*are not my authorship*_, they belong to the following GitHub developers and creators (not necessarily in a particular oder):
 luoguanghao: https://github.com/luoguanghao
 ruizhang84: https://github.com/ruizhang84
